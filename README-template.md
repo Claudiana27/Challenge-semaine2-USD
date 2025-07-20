@@ -2,17 +2,17 @@
 
 Ce projet est une solution au défi [Frontend Mentor](https://www.frontendmentor.io/challenges). Le but était de reproduire une landing page responsive à partir d'une maquette fournie.
 
-## 🎯 Objectif
+## Objectif
 
 - Reproduire fidèlement le design (desktop et mobile).
 - Utiliser HTML, Tailwind CSS (ou CSS classique).
 - Assurer un affichage responsive.
 - Ajouter les effets de hover sur les boutons et liens.
 
-## 🔗 Liens
+## Liens
 
-- Démo live : (https://ton-lien.vercel.app)
-- Code source :(https://github.com/Claudiana27/digitalbank-landing)
+- Démo live : (https://claudiana27.github.io/Challenge-semaine2-USD/)
+- Code source :(https://github.com/Claudiana27/Challenge-semaine2-USD)
 
 ## Technologies utilisées
 
@@ -33,8 +33,8 @@ Ce projet est une solution au défi [Frontend Mentor](https://www.frontendmentor
 
 ## Auteur
 
-- 💻 GitHub :(https://github.com/Claudiana27)
-- 🌐 Frontend Mentor :(https://www.frontendmentor.io?ref=challenge)
+- GitHub :(https://github.com/Claudiana27)
+- Frontend Mentor :(https://www.frontendmentor.io?ref=challenge)
 
 ## Remerciements
 
